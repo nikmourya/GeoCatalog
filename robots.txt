@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nikmourya.github.io/geocatalog/sitemap.xml
